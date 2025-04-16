@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Verilog_practice
+T_opt
+!s110 1744751278
+V>XGmSofNAc]X_0oK?@^^U3
+Z1 04 18 4 work bitStreamAddFsm_tb fast 0
+=1-84a93eb2fd11-67fecaae-11b-2018
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1744753674
+VeY7gYfY2[?g7a8H2aJ`[c0
+R1
+=1-84a93eb2fd11-67fed40a-1f5-3dd8
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+vbitStreamAddFsm
+Z4 !s110 1744830289
+!i10b 1
+!s100 _7T9D=5;NZ:XHzBB0[@Dj0
+IOcURH4c^hYmNe<aG9MT;X0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm
+w1744752152
+8C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm.v
+FC:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm.v
+L0 1
+Z7 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1744830288.000000
+!s107 C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+nbit@stream@add@fsm
+vbitStreamAddFsm_tb
+R4
+!i10b 1
+!s100 d6e:U9b6e]Kb:gb89[V4O3
+IlVN6D3[dU:n95@c8@[FOF3
+R5
+R6
+w1744753959
+8C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm_tb.v
+FC:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm_tb.v
+L0 6
+R7
+r1
+!s85 0
+31
+!s108 1744830289.000000
+!s107 C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm_tb.v|
+!i113 0
+R8
+R2
+nbit@stream@add@fsm_tb

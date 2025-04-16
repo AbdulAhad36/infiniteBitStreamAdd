@@ -1,0 +1,8 @@
+{C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm.v} {1 {vlog -work work -vopt -stats=none {C:/_Abdul Ahad (ACADEMICS)/_M.E INTEGERATED CIRCUIT DESIGN/1st sem (1st year)/ADVANCED DIGITAL SYSTEM DESIGN/mid_assignment/bitsteam_add_sm/bitStreamAddFsm.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module bitStreamAddFsm
+
+Top level modules:
+	bitStreamAddFsm
+
+} {} {}}
